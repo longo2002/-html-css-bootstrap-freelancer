@@ -64,6 +64,10 @@ a{
     text-transform: uppercase;
 }
 
+.col-md-6 img{
+    border-radius: 30px;
+}
+
 .bg-dark{
     background-color: rgba(44,62,80,255);
     /* padding: 10px; */
