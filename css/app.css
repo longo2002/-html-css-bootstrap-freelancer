@@ -4,16 +4,19 @@ menu{
     list-style: none;
 }
 
+a{
+    color: currentColor!important;
+    text-decoration: none!important;
+}
+
 .debug {
     background-color: white;
-    height: 50px;
-    width: 100%;
     border: 2px dotted rgb(0, 0, 0);
 }
 
 .bg-dark{
     background-color: rgba(44,62,80,255);
-    padding: 10px;
+    /* padding: 10px; */
 }
 
 .bg-shade{
