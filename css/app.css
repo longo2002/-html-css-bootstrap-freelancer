@@ -72,9 +72,15 @@ a{
     border-radius: 30px;
 }
 
+.list-group i{
+    height: 40px;
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 99999px;
+}
+
 .bg-dark{
     background-color: rgba(44,62,80,255);
-    /* padding: 10px; */
 }
 
 .bg-shade{
