@@ -1,0 +1,32 @@
+ol,
+ul,
+menu{
+    list-style: none;
+}
+
+.debug {
+    background-color: white;
+    height: 50px;
+    width: 100%;
+    border: 2px dotted rgb(0, 0, 0);
+}
+
+.bg-dark{
+    background-color: rgba(44,62,80,255);
+    padding: 10px;
+}
+
+.bg-shade{
+    background-color: rgba(26,188,156,255);
+    padding: 10px;
+}
+
+.bg-white{
+    background-color: white;
+    padding: 10px;
+}
+
+.bg-lightdark{
+    background-color: rgba(58,84,109,255);
+    padding: 10px;
+}
